@@ -1,0 +1,2961 @@
+[
+  {
+    "id": "545422",
+    "identifier": "1pChUJ9WQhWtqyt5RtSnLarZYQztZsbzi",
+    "name": "Fireblocks Omnibus Cold",
+    "createdAt": "2024-07-29T15:45:06.086947+00:00",
+    "totalUsdValue": 748445043.3117212,
+    "assets": [
+      {
+        "id": "106319429",
+        "name": "Bitcoin",
+        "asset": {
+          "identifier": "native",
+          "network": "BITCOIN",
+          "symbol": "BTC"
+        },
+        "assetUsdValue": {
+          "value": 748445043.3117212
+        },
+        "assetAmount": 7804.1341
+      }
+    ]
+  },
+  {
+    "id": "545418",
+    "identifier": "0xa74e8ae2f83d2564af25420ad4d6a7fe224b053f",
+    "name": "Fireblocks Omnibus Cold",
+    "createdAt": "2024-07-29T15:45:06.035325+00:00",
+    "totalUsdValue": 584973179.6152108,
+    "assets": [
+      {
+        "id": "106322607",
+        "name": "BNB",
+        "asset": {
+          "identifier": "native",
+          "network": "BINANCE",
+          "symbol": "BNB"
+        },
+        "assetUsdValue": {
+          "value": 139857562.47471693
+        },
+        "assetAmount": 216098.847296372
+      },
+      {
+        "id": "106322599",
+        "name": "Ethereum Token",
+        "asset": {
+          "identifier": "0x2170ed0880ac9a755fd29b2688956bd959f933f8",
+          "network": "BINANCE",
+          "symbol": "ETH"
+        },
+        "assetUsdValue": {
+          "value": 125985672.83814862
+        },
+        "assetAmount": 38071.6615036
+      },
+      {
+        "id": "106322585",
+        "name": "BTCB Token",
+        "asset": {
+          "identifier": "0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c",
+          "network": "BINANCE",
+          "symbol": "BTCB"
+        },
+        "assetUsdValue": {
+          "value": 102452127.67751123
+        },
+        "assetAmount": 1068.2817
+      },
+      {
+        "id": "106319627",
+        "name": "SHIBA INU",
+        "asset": {
+          "identifier": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
+          "network": "ETHEREUM",
+          "symbol": "SHIB"
+        },
+        "assetUsdValue": {
+          "value": 35147265.96418618
+        },
+        "assetAmount": 1416836386676.06
+      },
+      {
+        "id": "106322780",
+        "name": "Tether USD",
+        "asset": {
+          "identifier": "0x55d398326f99059ff775485246999027b3197955",
+          "network": "BINANCE",
+          "symbol": "USDT"
+        },
+        "assetUsdValue": {
+          "value": 33676889.346434854
+        },
+        "assetAmount": 33629035.20560002
+      },
+      {
+        "id": "106319856",
+        "name": "Avalanche",
+        "asset": {
+          "identifier": "native",
+          "network": "AVAX",
+          "symbol": "AVAX"
+        },
+        "assetUsdValue": {
+          "value": 14387925.743792726
+        },
+        "assetAmount": 364257.524845399
+      },
+      {
+        "id": "106319457",
+        "name": "ChainLink Token",
+        "asset": {
+          "identifier": "0x514910771af9ca656af840dff83e8264ecf986ca",
+          "network": "ETHEREUM",
+          "symbol": "LINK"
+        },
+        "assetUsdValue": {
+          "value": 12477508.04781434
+        },
+        "assetAmount": 745037.29364628
+      },
+      {
+        "id": "106322586",
+        "name": "Chainlink",
+        "asset": {
+          "identifier": "0xf8a0bf9cf54bb92f17374d9e9a321e6a111a51bd",
+          "network": "BINANCE",
+          "symbol": "LINK"
+        },
+        "assetUsdValue": {
+          "value": 10038539.617343167
+        },
+        "assetAmount": 599405.455
+      },
+      {
+        "id": "106319632",
+        "name": "Matic Token",
+        "asset": {
+          "identifier": "0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0",
+          "network": "ETHEREUM",
+          "symbol": "POL"
+        },
+        "assetUsdValue": {
+          "value": 9118571.843183372
+        },
+        "assetAmount": 16905748.567
+      }
+    ]
+  },
+  {
+    "id": "547005",
+    "identifier": "A742MX5uDPJWG6eN7mQwmksH2oRKBS9A1QMspgjLtZHT",
+    "name": "Transition wallet",
+    "createdAt": "2024-08-19T18:25:56.819779+00:00",
+    "totalUsdValue": 324601398.8486909,
+    "assets": [
+      {
+        "id": "106365043",
+        "name": "Solana",
+        "asset": {
+          "identifier": "native",
+          "network": "SOLANA",
+          "symbol": "SOL"
+        },
+        "assetUsdValue": {
+          "value": 324601398.8486909
+        },
+        "assetAmount": 1312588.868474759
+      }
+    ]
+  },
+  {
+    "id": "545421",
+    "identifier": "DDqhS1QFmVp4438TKnswEook6xccrp4ig4",
+    "name": "Fireblocks Omnibus Cold",
+    "createdAt": "2024-07-29T15:45:06.074451+00:00",
+    "totalUsdValue": 201434586.6851077,
+    "assets": [
+      {
+        "id": "106319705",
+        "name": "Dogecoin",
+        "asset": {
+          "identifier": "native",
+          "network": "DOGECOIN",
+          "symbol": "DOGE"
+        },
+        "assetUsdValue": {
+          "value": 201434586.6851077
+        },
+        "assetAmount": 490405649.998
+      }
+    ]
+  },
+  {
+    "id": "460287",
+    "identifier": "0x21d45650db732ce5df77685d6021d7d5d1da807f",
+    "name": "Hot Wallet",
+    "createdAt": "2023-12-15T18:03:52.919983+00:00",
+    "totalUsdValue": 139387572.52068174,
+    "assets": [
+      {
+        "id": "106331442",
+        "name": "Tether USD",
+        "asset": {
+          "identifier": "0x55d398326f99059ff775485246999027b3197955",
+          "network": "BINANCE",
+          "symbol": "USDT"
+        },
+        "assetUsdValue": {
+          "value": 36831075.47680441
+        },
+        "assetAmount": 36778739.30481316
+      },
+      {
+        "id": "106332227",
+        "name": "BNB",
+        "asset": {
+          "identifier": "native",
+          "network": "BINANCE",
+          "symbol": "BNB"
+        },
+        "assetUsdValue": {
+          "value": 22050607.24732001
+        },
+        "assetAmount": 34071.17015350746
+      },
+      {
+        "id": "106331417",
+        "name": "Dogecoin",
+        "asset": {
+          "identifier": "0xba2ae424d960c26247dd6c32edc70b295c744c43",
+          "network": "BINANCE",
+          "symbol": "DOGE"
+        },
+        "assetUsdValue": {
+          "value": 19655395.80611085
+        },
+        "assetAmount": 47852344.10281333
+      },
+      {
+        "id": "106332232",
+        "name": "Cardano",
+        "asset": {
+          "identifier": "0x3ee2200efb3400fabb9aacf31297cbdd1d435d47",
+          "network": "BINANCE",
+          "symbol": "ADA"
+        },
+        "assetUsdValue": {
+          "value": 18854235.89240804
+        },
+        "assetAmount": 19476918.884757955
+      },
+      {
+        "id": "106332132",
+        "name": "BTCB Token",
+        "asset": {
+          "identifier": "0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c",
+          "network": "BINANCE",
+          "symbol": "BTCB"
+        },
+        "assetUsdValue": {
+          "value": 8842412.25205041
+        },
+        "assetAmount": 92.20098602983651
+      },
+      {
+        "id": "106331404",
+        "name": "SHIBA INU",
+        "asset": {
+          "identifier": "0x2859e4544c4bb03966803b044a93563bd2d0dd4d",
+          "network": "BINANCE",
+          "symbol": "SHIB"
+        },
+        "assetUsdValue": {
+          "value": 8378537.425238514
+        },
+        "assetAmount": 337750785603.1028
+      },
+      {
+        "id": "106331396",
+        "name": "USD Coin",
+        "asset": {
+          "identifier": "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
+          "network": "BINANCE",
+          "symbol": "USDC"
+        },
+        "assetUsdValue": {
+          "value": 5269604.383547765
+        },
+        "assetAmount": 5264362.137866983
+      },
+      {
+        "id": "106332102",
+        "name": "Ethereum Token",
+        "asset": {
+          "identifier": "0x2170ed0880ac9a755fd29b2688956bd959f933f8",
+          "network": "BINANCE",
+          "symbol": "ETH"
+        },
+        "assetUsdValue": {
+          "value": 4417525.5839044005
+        },
+        "assetAmount": 1334.933845453698
+      },
+      {
+        "id": "106331399",
+        "name": "FLOKI",
+        "asset": {
+          "identifier": "0xfb5b838b6cfeedc2873ab27866079ac55363d37e",
+          "network": "BINANCE",
+          "symbol": "FLOKI"
+        },
+        "assetUsdValue": {
+          "value": 4070410.552986808
+        },
+        "assetAmount": 17605585015.664043
+      }
+    ]
+  },
+  {
+    "id": "460286",
+    "identifier": "0x70d5ccc14a1a264c05ff48b3ec6751b0959541aa",
+    "name": "Staking Wallet",
+    "createdAt": "2023-12-15T18:03:41.733581+00:00",
+    "totalUsdValue": 138577872.52743036,
+    "assets": [
+      {
+        "id": "106328870",
+        "name": "Beacon Chain - Validator #650249",
+        "asset": {
+          "identifier": "virtual",
+          "network": "ETHEREUM",
+          "symbol": "virtual"
+        },
+        "assetUsdValue": {
+          "value": 106539.45105650632
+        },
+        "assetAmount": 1
+      },
+      {
+        "id": "106328591",
+        "name": "Beacon Chain - Validator #649919",
+        "asset": {
+          "identifier": "virtual",
+          "network": "ETHEREUM",
+          "symbol": "virtual"
+        },
+        "assetUsdValue": {
+          "value": 106095.42592280182
+        },
+        "assetAmount": 1
+      },
+      {
+        "id": "106328435",
+        "name": "Beacon Chain - Validator #649759",
+        "asset": {
+          "identifier": "virtual",
+          "network": "ETHEREUM",
+          "symbol": "virtual"
+        },
+        "assetUsdValue": {
+          "value": 106095.3498217754
+        },
+        "assetAmount": 1
+      },
+      {
+        "id": "106328357",
+        "name": "Beacon Chain - Validator #649673",
+        "asset": {
+          "identifier": "virtual",
+          "network": "ETHEREUM",
+          "symbol": "virtual"
+        },
+        "assetUsdValue": {
+          "value": 106095.29429387073
+        },
+        "assetAmount": 1
+      },
+      {
+        "id": "106328897",
+        "name": "Beacon Chain - Validator #650260",
+        "asset": {
+          "identifier": "virtual",
+          "network": "ETHEREUM",
+          "symbol": "virtual"
+        },
+        "assetUsdValue": {
+          "value": 106095.18828454858
+        },
+        "assetAmount": 1
+      },
+      {
+        "id": "106327481",
+        "name": "Beacon Chain - Validator #649302",
+        "asset": {
+          "identifier": "virtual",
+          "network": "ETHEREUM",
+          "symbol": "virtual"
+        },
+        "assetUsdValue": {
+          "value": 106095.11843785706
+        },
+        "assetAmount": 1
+      },
+      {
+        "id": "106327970",
+        "name": "Beacon Chain - Validator #649502",
+        "asset": {
+          "identifier": "virtual",
+          "network": "ETHEREUM",
+          "symbol": "virtual"
+        },
+        "assetUsdValue": {
+          "value": 106094.85900539761
+        },
+        "assetAmount": 1
+      },
+      {
+        "id": "106327856",
+        "name": "Beacon Chain - Validator #649457",
+        "asset": {
+          "identifier": "virtual",
+          "network": "ETHEREUM",
+          "symbol": "virtual"
+        },
+        "assetUsdValue": {
+          "value": 106094.63560320192
+        },
+        "assetAmount": 1
+      },
+      {
+        "id": "106329965",
+        "name": "Beacon Chain - Validator #651223",
+        "asset": {
+          "identifier": "virtual",
+          "network": "ETHEREUM",
+          "symbol": "virtual"
+        },
+        "assetUsdValue": {
+          "value": 106094.08279279756
+        },
+        "assetAmount": 1
+      }
+    ]
+  },
+  {
+    "id": "560480",
+    "identifier": "0x16beb8782c2607fd90ca93f3119cf12c00255c6e",
+    "name": "Transition wallet",
+    "createdAt": "2024-10-03T10:18:31.914690+00:00",
+    "totalUsdValue": 111837778.05001238,
+    "assets": [
+      {
+        "id": "106319609",
+        "name": "Binance PoS - Delegation to 0x30e0be360D1E7c6dD3f7c54e2F098b9cAB1A9227",
+        "asset": {
+          "identifier": "virtual",
+          "network": "BINANCE",
+          "symbol": "virtual"
+        },
+        "assetUsdValue": {
+          "value": 29983004.907441195
+        },
+        "assetAmount": 1
+      },
+      {
+        "id": "106319614",
+        "name": "BNB",
+        "asset": {
+          "identifier": "native",
+          "network": "BINANCE",
+          "symbol": "BNB"
+        },
+        "assetUsdValue": {
+          "value": 21806571.567488387
+        },
+        "assetAmount": 33694.1020266385
+      },
+      {
+        "id": "106322015",
+        "name": "Ethereum",
+        "asset": {
+          "identifier": "native",
+          "network": "ETHEREUM",
+          "symbol": "ETH"
+        },
+        "assetUsdValue": {
+          "value": 286962.40535908885
+        },
+        "assetAmount": 86.71728550535578
+      },
+      {
+        "id": "106320349",
+        "name": "Beacon Chain - Validator #1671061",
+        "asset": {
+          "identifier": "virtual",
+          "network": "ETHEREUM",
+          "symbol": "virtual"
+        },
+        "assetUsdValue": {
+          "value": 106051.08424028402
+        },
+        "assetAmount": 1
+      },
+      {
+        "id": "106321486",
+        "name": "Beacon Chain - Validator #1671635",
+        "asset": {
+          "identifier": "virtual",
+          "network": "ETHEREUM",
+          "symbol": "virtual"
+        },
+        "assetUsdValue": {
+          "value": 106048.00483410667
+        },
+        "assetAmount": 1
+      },
+      {
+        "id": "106320325",
+        "name": "Beacon Chain - Validator #1635261",
+        "asset": {
+          "identifier": "virtual",
+          "network": "ETHEREUM",
+          "symbol": "virtual"
+        },
+        "assetUsdValue": {
+          "value": 105910.85160783146
+        },
+        "assetAmount": 1
+      },
+      {
+        "id": "106320328",
+        "name": "Beacon Chain - Validator #1635262",
+        "asset": {
+          "identifier": "virtual",
+          "network": "ETHEREUM",
+          "symbol": "virtual"
+        },
+        "assetUsdValue": {
+          "value": 105910.8293966696
+        },
+        "assetAmount": 1
+      },
+      {
+        "id": "106320331",
+        "name": "Beacon Chain - Validator #1671055",
+        "asset": {
+          "identifier": "virtual",
+          "network": "ETHEREUM",
+          "symbol": "virtual"
+        },
+        "assetUsdValue": {
+          "value": 105898.54673997979
+        },
+        "assetAmount": 1
+      },
+      {
+        "id": "106320334",
+        "name": "Beacon Chain - Validator #1671056",
+        "asset": {
+          "identifier": "virtual",
+          "network": "ETHEREUM",
+          "symbol": "virtual"
+        },
+        "assetUsdValue": {
+          "value": 105898.53915866694
+        },
+        "assetAmount": 1
+      }
+    ]
+  },
+  {
+    "id": "545428",
+    "identifier": "addr1qyke569sq8x4hj908yfq0gryzy5jrkgj8jkm6kec9xacmn0n4s6s44lk339376pjsgtwv4dlj7zzge6695k9qwlpl7qshjc099",
+    "name": "Fireblocks Omnibus Cold",
+    "createdAt": "2024-07-29T15:45:06.159592+00:00",
+    "totalUsdValue": 110668539.56654862,
+    "assets": [
+      {
+        "id": "106319288",
+        "name": "Cardano",
+        "asset": {
+          "identifier": "native",
+          "network": "CARDANO",
+          "symbol": "ADA"
+        },
+        "assetUsdValue": {
+          "value": 110668539.56654862
+        },
+        "assetAmount": 114323496.350241
+      }
+    ]
+  },
+  {
+    "id": "546979",
+    "identifier": "0x07fac54a901409fe10e56c899be3dcf2471ae321",
+    "name": "Transition wallet",
+    "createdAt": "2024-08-19T18:25:56.311827+00:00",
+    "totalUsdValue": 89673391.40203536,
+    "assets": [
+      {
+        "id": "106325491",
+        "name": "Ethereum",
+        "asset": {
+          "identifier": "native",
+          "network": "ETHEREUM",
+          "symbol": "ETH"
+        },
+        "assetUsdValue": {
+          "value": 374078.7968759408
+        },
+        "assetAmount": 113.04302314304364
+      },
+      {
+        "id": "106324177",
+        "name": "Beacon Chain - Validator #1054677",
+        "asset": {
+          "identifier": "virtual",
+          "network": "ETHEREUM",
+          "symbol": "virtual"
+        },
+        "assetUsdValue": {
+          "value": 106515.73102145371
+        },
+        "assetAmount": 1
+      },
+      {
+        "id": "106323472",
+        "name": "Beacon Chain - Validator #1054442",
+        "asset": {
+          "identifier": "virtual",
+          "network": "ETHEREUM",
+          "symbol": "virtual"
+        },
+        "assetUsdValue": {
+          "value": 106111.20886931676
+        },
+        "assetAmount": 1
+      },
+      {
+        "id": "106323058",
+        "name": "Beacon Chain - Validator #649024",
+        "asset": {
+          "identifier": "virtual",
+          "network": "ETHEREUM",
+          "symbol": "virtual"
+        },
+        "assetUsdValue": {
+          "value": 106094.60732632795
+        },
+        "assetAmount": 1
+      },
+      {
+        "id": "106323130",
+        "name": "Beacon Chain - Validator #649050",
+        "asset": {
+          "identifier": "virtual",
+          "network": "ETHEREUM",
+          "symbol": "virtual"
+        },
+        "assetUsdValue": {
+          "value": 106094.43480926873
+        },
+        "assetAmount": 1
+      },
+      {
+        "id": "106324484",
+        "name": "Beacon Chain - Validator #1054780",
+        "asset": {
+          "identifier": "virtual",
+          "network": "ETHEREUM",
+          "symbol": "virtual"
+        },
+        "assetUsdValue": {
+          "value": 106079.98716987565
+        },
+        "assetAmount": 1
+      },
+      {
+        "id": "106323736",
+        "name": "Beacon Chain - Validator #1054530",
+        "asset": {
+          "identifier": "virtual",
+          "network": "ETHEREUM",
+          "symbol": "virtual"
+        },
+        "assetUsdValue": {
+          "value": 106079.80539044425
+        },
+        "assetAmount": 1
+      },
+      {
+        "id": "106323544",
+        "name": "Beacon Chain - Validator #1054466",
+        "asset": {
+          "identifier": "virtual",
+          "network": "ETHEREUM",
+          "symbol": "virtual"
+        },
+        "assetUsdValue": {
+          "value": 106079.77568069883
+        },
+        "assetAmount": 1
+      },
+      {
+        "id": "106323916",
+        "name": "Beacon Chain - Validator #1054590",
+        "asset": {
+          "identifier": "virtual",
+          "network": "ETHEREUM",
+          "symbol": "virtual"
+        },
+        "assetUsdValue": {
+          "value": 106077.9216244791
+        },
+        "assetAmount": 1
+      }
+    ]
+  },
+  {
+    "id": "460285",
+    "identifier": "0xf60c2ea62edbfe808163751dd0d8693dcb30019c",
+    "name": "Hot Wallet",
+    "createdAt": "2023-12-15T18:03:41.725505+00:00",
+    "totalUsdValue": 67653993.88658798,
+    "assets": [
+      {
+        "id": "106332457",
+        "name": "Tether USD",
+        "asset": {
+          "identifier": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+          "network": "ETHEREUM",
+          "symbol": "USDT"
+        },
+        "assetUsdValue": {
+          "value": 17229907.979391623
+        },
+        "assetAmount": 17205424.647973
+      },
+      {
+        "id": "106332391",
+        "name": "Ethereum",
+        "asset": {
+          "identifier": "native",
+          "network": "ETHEREUM",
+          "symbol": "ETH"
+        },
+        "assetUsdValue": {
+          "value": 16544904.614773316
+        },
+        "assetAmount": 4999.711426808106
+      },
+      {
+        "id": "106332455",
+        "name": "FLOKI",
+        "asset": {
+          "identifier": "0xcf0c122c6b73ff809c693db761e7baebe62b6a2e",
+          "network": "ETHEREUM",
+          "symbol": "FLOKI"
+        },
+        "assetUsdValue": {
+          "value": 6213057.220767987
+        },
+        "assetAmount": 26873089503.74831
+      },
+      {
+        "id": "106332419",
+        "name": "BNB",
+        "asset": {
+          "identifier": "0xb8c77482e45f1f44de1745f52c74426c631bdd52",
+          "network": "ETHEREUM",
+          "symbol": "BNB"
+        },
+        "assetUsdValue": {
+          "value": 5222234.801237021
+        },
+        "assetAmount": 8069.058983223228
+      },
+      {
+        "id": "106332364",
+        "name": "USD Coin",
+        "asset": {
+          "identifier": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+          "network": "ETHEREUM",
+          "symbol": "USDC"
+        },
+        "assetUsdValue": {
+          "value": 2679202.920751911
+        },
+        "assetAmount": 2676537.627702
+      },
+      {
+        "id": "106332426",
+        "name": "SHIBA INU",
+        "asset": {
+          "identifier": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
+          "network": "ETHEREUM",
+          "symbol": "SHIB"
+        },
+        "assetUsdValue": {
+          "value": 2292569.123130609
+        },
+        "assetAmount": 92416728969.2254
+      },
+      {
+        "id": "106332290",
+        "name": "ChainLink Token",
+        "asset": {
+          "identifier": "0x514910771af9ca656af840dff83e8264ecf986ca",
+          "network": "ETHEREUM",
+          "symbol": "LINK"
+        },
+        "assetUsdValue": {
+          "value": 1642198.4337336095
+        },
+        "assetAmount": 98056.36446080002
+      },
+      {
+        "id": "106332352",
+        "name": "Gala",
+        "asset": {
+          "identifier": "0xd1d2eb1b1e90b638588728b4130137d262c87cae",
+          "network": "ETHEREUM",
+          "symbol": "GALA"
+        },
+        "assetUsdValue": {
+          "value": 893735.9812223797
+        },
+        "assetAmount": 25168459.3949828
+      },
+      {
+        "id": "106332432",
+        "name": "Matic Token",
+        "asset": {
+          "identifier": "0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0",
+          "network": "ETHEREUM",
+          "symbol": "POL"
+        },
+        "assetUsdValue": {
+          "value": 868795.8551673827
+        },
+        "assetAmount": 1610739.5473877122
+      }
+    ]
+  },
+  {
+    "id": "546063",
+    "identifier": "bc1qprk4pfyqx8ecshg4wta8q2z0vvmdhennv5vsl3",
+    "name": "BUS Cold Fireblocks: Binance.US Omnibus Cold (BTC)",
+    "createdAt": "2024-08-01T12:02:14.216825+00:00",
+    "totalUsdValue": 48823685.91760209,
+    "assets": [
+      {
+        "id": "106320147",
+        "name": "Bitcoin",
+        "asset": {
+          "identifier": "native",
+          "network": "BITCOIN",
+          "symbol": "BTC"
+        },
+        "assetUsdValue": {
+          "value": 48823685.91760209
+        },
+        "assetAmount": 509.09094203
+      }
+    ]
+  },
+  {
+    "id": "545419",
+    "identifier": "r9V6GYWRQNLgveGrn8JkCRTU9GA8Phzufy",
+    "name": "Fireblocks Omnibus Cold",
+    "createdAt": "2024-07-29T15:45:06.049053+00:00",
+    "totalUsdValue": 47421958.63406908,
+    "assets": [
+      {
+        "id": "106319851",
+        "name": "Ripple",
+        "asset": {
+          "identifier": "native",
+          "network": "RIPPLE",
+          "symbol": "XRP"
+        },
+        "assetUsdValue": {
+          "value": 47421958.63406908
+        },
+        "assetAmount": 35521818.729986
+      }
+    ]
+  },
+  {
+    "id": "545425",
+    "identifier": "GCA6YZJK2Z6HRWRY57B2UH7ZYROHM6UO5E5PJ4SCL73KWPNHX2GEPY45",
+    "name": "Fireblocks Omnibus Cold",
+    "createdAt": "2024-07-29T15:45:06.124094+00:00",
+    "totalUsdValue": 39716941.08771683,
+    "assets": [
+      {
+        "id": "106319597",
+        "name": "Stellar Lumens",
+        "asset": {
+          "identifier": "native",
+          "network": "STELLAR",
+          "symbol": "XLM"
+        },
+        "assetUsdValue": {
+          "value": 39716941.08771683
+        },
+        "assetAmount": 83671648.918997
+      }
+    ]
+  },
+  {
+    "id": "545434",
+    "identifier": "0.0.6072122",
+    "name": "Fireblocks Omnibus Cold",
+    "createdAt": "2024-07-29T15:45:06.234492+00:00",
+    "totalUsdValue": 36110485.21210686,
+    "assets": [
+      {
+        "id": "106320129",
+        "name": "Hedera",
+        "asset": {
+          "identifier": "native",
+          "network": "HEDERA",
+          "symbol": "HBAR"
+        },
+        "assetUsdValue": {
+          "value": 36110485.21210686
+        },
+        "assetAmount": 256286695.40554878
+      }
+    ]
+  },
+  {
+    "id": "559880",
+    "identifier": "addr1q9u3dwqlgs79rv9yqm7se4zcta9m5wdj4kq8jmqvk0rpsgmez6up73pu2xc2gphapn29sh6thgum9tvq09kqev7xrq3spm57xp",
+    "name": "Transition wallet",
+    "createdAt": "2024-10-01T10:42:11.312398+00:00",
+    "totalUsdValue": 31566065.41281903,
+    "assets": [
+      {
+        "id": "106319533",
+        "name": "Cardano",
+        "asset": {
+          "identifier": "native",
+          "network": "CARDANO",
+          "symbol": "ADA"
+        },
+        "assetUsdValue": {
+          "value": 31566065.41281903
+        },
+        "assetAmount": 32608571.308053
+      }
+    ]
+  },
+  {
+    "id": "559886",
+    "identifier": "addr1qyazqey7nvvj4xryc7ygaxttmuwne0jy3r4wz7vsnyhg37f6ypjfaxce92vxf3ug36vkhhca8jlyfz82u9uepxfw3rus34djvq",
+    "name": "Transition wallet",
+    "createdAt": "2024-10-01T10:42:11.509716+00:00",
+    "totalUsdValue": 26992345.50673324,
+    "assets": [
+      {
+        "id": "106319384",
+        "name": "Cardano",
+        "asset": {
+          "identifier": "native",
+          "network": "CARDANO",
+          "symbol": "ADA"
+        },
+        "assetUsdValue": {
+          "value": 26992345.50673324
+        },
+        "assetAmount": 27883799.001141
+      }
+    ]
+  },
+  {
+    "id": "560479",
+    "identifier": "0x6ff21d238b5aa25a113c2799a4420fae51aabd73",
+    "name": "Transition wallet",
+    "createdAt": "2024-10-03T10:18:31.889112+00:00",
+    "totalUsdValue": 25898875.661961213,
+    "assets": [
+      {
+        "id": "106319070",
+        "name": "Binance PoS - Delegation to 0x30e0be360D1E7c6dD3f7c54e2F098b9cAB1A9227",
+        "asset": {
+          "identifier": "virtual",
+          "network": "BINANCE",
+          "symbol": "virtual"
+        },
+        "assetUsdValue": {
+          "value": 22662913.130428974
+        },
+        "assetAmount": 1
+      },
+      {
+        "id": "106319077",
+        "name": "BNB",
+        "asset": {
+          "identifier": "native",
+          "network": "BINANCE",
+          "symbol": "BNB"
+        },
+        "assetUsdValue": {
+          "value": 3235962.53153224
+        },
+        "assetAmount": 4999.999718176
+      },
+      {
+        "id": "106319076",
+        "name": "BSC Governance Token",
+        "asset": {
+          "identifier": "0x0000000000000000000000000000000000002005",
+          "network": "BINANCE",
+          "symbol": "govBNB"
+        },
+        "assetUsdValue": null,
+        "assetAmount": 35000
+      },
+      {
+        "id": "106319078",
+        "name": "Stake Figment Credit",
+        "asset": {
+          "identifier": "0x30e0be360d1e7c6dd3f7c54e2f098b9cab1a9227",
+          "network": "BINANCE",
+          "symbol": "stFigment"
+        },
+        "assetUsdValue": null,
+        "assetAmount": 34900.69005123066
+      }
+    ]
+  },
+  {
+    "id": "546980",
+    "identifier": "0xa0e3b43036050caec738e32aba3247927a5fe5c6",
+    "name": "Transition wallet",
+    "createdAt": "2024-08-19T18:25:56.324259+00:00",
+    "totalUsdValue": 25339986.25983223,
+    "assets": [
+      {
+        "id": "106319181",
+        "name": "Polygon PoS - Delegation to 87",
+        "asset": {
+          "identifier": "virtual",
+          "network": "ETHEREUM",
+          "symbol": "virtual"
+        },
+        "assetUsdValue": {
+          "value": 16428434.165889831
+        },
+        "assetAmount": 2.926980573592296e25
+      },
+      {
+        "id": "106319189",
+        "name": "Matic Token",
+        "asset": {
+          "identifier": "0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0",
+          "network": "ETHEREUM",
+          "symbol": "POL"
+        },
+        "assetUsdValue": {
+          "value": 8894730.673858153
+        },
+        "assetAmount": 16490749.092012664
+      },
+      {
+        "id": "106319190",
+        "name": "Ethereum",
+        "asset": {
+          "identifier": "native",
+          "network": "ETHEREUM",
+          "symbol": "ETH"
+        },
+        "assetUsdValue": {
+          "value": 16820.388454778695
+        },
+        "assetAmount": 5.08296
+      },
+      {
+        "id": "106319188",
+        "name": "MultiVAC",
+        "asset": {
+          "identifier": "0x6226e00bcac68b0fe55583b90a1d727c14fab77f",
+          "network": "ETHEREUM",
+          "symbol": "MTV"
+        },
+        "assetUsdValue": {
+          "value": 1.0316294640504569
+        },
+        "assetAmount": 1000
+      },
+      {
+        "id": "106319187",
+        "name": "OpenEX",
+        "asset": {
+          "identifier": "0x080c7a4c2fae8e0bee68baa7355836768106f621",
+          "network": "ETHEREUM",
+          "symbol": "OPENEX"
+        },
+        "assetUsdValue": {
+          "value": 0
+        },
+        "assetAmount": 0
+      },
+      {
+        "id": "106320243",
+        "name": "ETHENA ",
+        "asset": {
+          "identifier": "0x81b71ef6bfb59def771ff946ede1011ab33580c4",
+          "network": "BLAST",
+          "symbol": "YOUR ETHENA ON:ethen-eth.com %"
+        },
+        "assetUsdValue": null,
+        "assetAmount": 15523
+      }
+    ]
+  },
+  {
+    "id": "503413",
+    "identifier": "0x43c5b1c2be8ef194a509cf93eb1ab3dbd07b97ed",
+    "name": "Hot Wallet",
+    "createdAt": "2024-04-03T18:53:15.149375+00:00",
+    "totalUsdValue": 25056524.785124574,
+    "assets": [
+      {
+        "id": "106319396",
+        "name": "Ethereum",
+        "asset": {
+          "identifier": "0xdeaddeaddeaddeaddeaddeaddeaddeaddead0000",
+          "network": "OPTIMISM",
+          "symbol": "ETH"
+        },
+        "assetUsdValue": {
+          "value": 23762546.537775166
+        },
+        "assetAmount": 7180.813562919514
+      },
+      {
+        "id": "106319395",
+        "name": "Optimism",
+        "asset": {
+          "identifier": "0x4200000000000000000000000000000000000042",
+          "network": "OPTIMISM",
+          "symbol": "OP"
+        },
+        "assetUsdValue": {
+          "value": 1293976.5600500635
+        },
+        "assetAmount": 611296.7195566213
+      },
+      {
+        "id": "106320253",
+        "name": "BarnBridge Governance Token",
+        "asset": {
+          "identifier": "0x0391d2021f89dc339f60fff84546ea23e337750f",
+          "network": "ETHEREUM",
+          "symbol": "BOND"
+        },
+        "assetUsdValue": {
+          "value": 1.62304963917683
+        },
+        "assetAmount": 1
+      },
+      {
+        "id": "106320165",
+        "name": "OpenWorld",
+        "asset": {
+          "identifier": "0x58cb98a966f62aa6f2190eb3aa03132a0c3de3d5",
+          "network": "ARBITRUM",
+          "symbol": "OPEN"
+        },
+        "assetUsdValue": {
+          "value": 0.06424970679209949
+        },
+        "assetAmount": 20
+      }
+    ]
+  },
+  {
+    "id": "503447",
+    "identifier": "TPRZtpGEA4cN7gEEMhECb92iTGg9KcneH5",
+    "name": "Hot Wallet - TRON",
+    "createdAt": "2024-04-03T18:53:15.278237+00:00",
+    "totalUsdValue": 25029180.837374266,
+    "assets": [
+      {
+        "id": "106322111",
+        "name": "Tether USD",
+        "asset": {
+          "identifier": "TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t",
+          "network": "TRON",
+          "symbol": "USDT"
+        },
+        "assetUsdValue": {
+          "value": 24993815.82547279
+        },
+        "assetAmount": 24958300.146747
+      },
+      {
+        "id": "106322113",
+        "name": "Tron",
+        "asset": {
+          "identifier": "native",
+          "network": "TRON",
+          "symbol": "TRX"
+        },
+        "assetUsdValue": {
+          "value": 30342.331871165938
+        },
+        "assetAmount": 148150.995434
+      },
+      {
+        "id": "106322112",
+        "name": "USD Coin",
+        "asset": {
+          "identifier": "TEkxiTehnzSmSe2XqrBj4w32RUN966rdz8",
+          "network": "TRON",
+          "symbol": "USDC"
+        },
+        "assetUsdValue": {
+          "value": 5022.680030308028
+        },
+        "assetAmount": 5017.683427
+      }
+    ]
+  },
+  {
+    "id": "503437",
+    "identifier": "53unSgGWqEWANcPYRF35B2Bgf8BkszUtcccKiXwGGLyr",
+    "name": "Hot Wallet",
+    "createdAt": "2024-04-03T18:53:15.241100+00:00",
+    "totalUsdValue": 21168987.966932405,
+    "assets": [
+      {
+        "id": "106320184",
+        "name": "Helium Network Token",
+        "asset": {
+          "identifier": "hntyVP6YFm1Hg25TN9WGLqM12b8TQmcknKrdu1oxWux",
+          "network": "SOLANA",
+          "symbol": "HNT"
+        },
+        "assetUsdValue": {
+          "value": 8163038.642530206
+        },
+        "assetAmount": 1297794.36328743
+      },
+      {
+        "id": "106320199",
+        "name": "Render",
+        "asset": {
+          "identifier": "rndrizKT3MK1iimdxRdWabcF7Zg7AR5T4nud4EkHBof",
+          "network": "SOLANA",
+          "symbol": "RENDER"
+        },
+        "assetUsdValue": {
+          "value": 4945145.282820163
+        },
+        "assetAmount": 664693.97029646
+      },
+      {
+        "id": "106320202",
+        "name": "Solana",
+        "asset": {
+          "identifier": "native",
+          "network": "SOLANA",
+          "symbol": "SOL"
+        },
+        "assetUsdValue": {
+          "value": 3492144.4630624824
+        },
+        "assetAmount": 14121.165113827
+      },
+      {
+        "id": "106320191",
+        "name": "USD Coin",
+        "asset": {
+          "identifier": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+          "network": "SOLANA",
+          "symbol": "USDC"
+        },
+        "assetUsdValue": {
+          "value": 2323893.760129415
+        },
+        "assetAmount": 2321581.931548
+      },
+      {
+        "id": "106320203",
+        "name": "USDT",
+        "asset": {
+          "identifier": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
+          "network": "SOLANA",
+          "symbol": "USDT"
+        },
+        "assetUsdValue": {
+          "value": 2111112.0447770962
+        },
+        "assetAmount": 2108112.199629
+      },
+      {
+        "id": "106320186",
+        "name": "Serum",
+        "asset": {
+          "identifier": "SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt",
+          "network": "SOLANA",
+          "symbol": "SRM"
+        },
+        "assetUsdValue": {
+          "value": 66186.34224245453
+        },
+        "assetAmount": 2047384.893475
+      },
+      {
+        "id": "106320195",
+        "name": "Bonk",
+        "asset": {
+          "identifier": "DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263",
+          "network": "SOLANA",
+          "symbol": "BONK"
+        },
+        "assetUsdValue": {
+          "value": 64820.26021578325
+        },
+        "assetAmount": 1468086101.73907
+      },
+      {
+        "id": "106320194",
+        "name": "Peanut the Squirrel ",
+        "asset": {
+          "identifier": "2qEHjDLDLbuBgRYvsxhc5D6uDWAivNFZGan56P1tpump",
+          "network": "SOLANA",
+          "symbol": "Pnut "
+        },
+        "assetUsdValue": {
+          "value": 1291.4331990036378
+        },
+        "assetAmount": 1047.19978
+      },
+      {
+        "id": "106320189",
+        "name": "Slothana",
+        "asset": {
+          "identifier": "HQ7DaoiUxzC2K1Dr7KXRHccNtXvEYgNvoUextXe8dmBh",
+          "network": "SOLANA",
+          "symbol": "SLOTH"
+        },
+        "assetUsdValue": {
+          "value": 1245.8625993787355
+        },
+        "assetAmount": 197538.6654
+      }
+    ]
+  },
+  {
+    "id": "546994",
+    "identifier": "0x2aab48d1c05b5ab92af0004bad73a200d721d4337c81e10d9235617ce7e3f341",
+    "name": "Transition wallet",
+    "createdAt": "2024-08-19T18:25:56.481748+00:00",
+    "totalUsdValue": 18777673.400670137,
+    "assets": [
+      {
+        "id": "106322104",
+        "name": "polkadot (DOT) - Staking",
+        "asset": {
+          "identifier": "virtual",
+          "network": "SUBSTRATE_POLKADOT",
+          "symbol": "virtual"
+        },
+        "assetUsdValue": {
+          "value": 14305446.37538721
+        },
+        "assetAmount": 1e-10
+      },
+      {
+        "id": "106322110",
+        "name": "Polkadot",
+        "asset": {
+          "identifier": "native",
+          "network": "SUBSTRATE_POLKADOT",
+          "symbol": "DOT"
+        },
+        "assetUsdValue": {
+          "value": 4472227.025282929
+        },
+        "assetAmount": 524649.2300709155
+      }
+    ]
+  },
+  {
+    "id": "503400",
+    "identifier": "bc1qw8wrek2m7nlqldll66ajnwr9mh64syvkt67zlu",
+    "name": "Hot Wallet",
+    "createdAt": "2024-04-03T18:53:15.067800+00:00",
+    "totalUsdValue": 15601048.799232645,
+    "assets": [
+      {
+        "id": "106326067",
+        "name": "Bitcoin",
+        "asset": {
+          "identifier": "native",
+          "network": "BITCOIN",
+          "symbol": "BTC"
+        },
+        "assetUsdValue": {
+          "value": 15601048.799232645
+        },
+        "assetAmount": 162.67417096
+      }
+    ]
+  },
+  {
+    "id": "503408",
+    "identifier": "DPtCFXLTkqSzUTHCt3JEkbh8LHCxN22EUz",
+    "name": "Hot Wallet",
+    "createdAt": "2024-04-03T18:53:15.126673+00:00",
+    "totalUsdValue": 14005055.515027765,
+    "assets": [
+      {
+        "id": "106322012",
+        "name": "Dogecoin",
+        "asset": {
+          "identifier": "native",
+          "network": "DOGECOIN",
+          "symbol": "DOGE"
+        },
+        "assetUsdValue": {
+          "value": 14005055.515027765
+        },
+        "assetAmount": 34096221.83623264
+      }
+    ]
+  },
+  {
+    "id": "546977",
+    "identifier": "0x077d5181954ace2ed78daca346ed80e8da8c3b60",
+    "name": "Transition wallet",
+    "createdAt": "2024-08-19T18:25:56.288717+00:00",
+    "totalUsdValue": 12992087.548812792,
+    "assets": [
+      {
+        "id": "106319252",
+        "name": "Harmony",
+        "asset": {
+          "identifier": "native",
+          "network": "HARMONY",
+          "symbol": "ONE"
+        },
+        "assetUsdValue": {
+          "value": 4098989.1221779515
+        },
+        "assetAmount": 171008541.02295905
+      },
+      {
+        "id": "106319224",
+        "name": "Harmony - delegation",
+        "asset": {
+          "identifier": "virtual",
+          "network": "HARMONY",
+          "symbol": "virtual"
+        },
+        "assetUsdValue": {
+          "value": 3808482.28088963
+        },
+        "assetAmount": 1
+      },
+      {
+        "id": "106319221",
+        "name": "Harmony - delegation",
+        "asset": {
+          "identifier": "virtual",
+          "network": "HARMONY",
+          "symbol": "virtual"
+        },
+        "assetUsdValue": {
+          "value": 3254937.795962454
+        },
+        "assetAmount": 1
+      },
+      {
+        "id": "106319228",
+        "name": "Harmony - delegation",
+        "asset": {
+          "identifier": "virtual",
+          "network": "HARMONY",
+          "symbol": "virtual"
+        },
+        "assetUsdValue": {
+          "value": 1813004.4627599965
+        },
+        "assetAmount": 1
+      },
+      {
+        "id": "106319426",
+        "name": "Ethereum",
+        "asset": {
+          "identifier": "native",
+          "network": "ETHEREUM",
+          "symbol": "ETH"
+        },
+        "assetUsdValue": {
+          "value": 16545.85955307409
+        },
+        "assetAmount": 5
+      },
+      {
+        "id": "106319427",
+        "name": "ApeCoin",
+        "asset": {
+          "identifier": "0x4d224452801aced8b2f0aebe155379bb5d594381",
+          "network": "ETHEREUM",
+          "symbol": "APE"
+        },
+        "assetUsdValue": {
+          "value": 128.02746734833482
+        },
+        "assetAmount": 100
+      },
+      {
+        "id": "106319123",
+        "name": "VOXEL Token",
+        "asset": {
+          "identifier": "0xd0258a3fd00f38aa8090dfee343f10a9d4d30d3f",
+          "network": "POLYGON",
+          "symbol": "VOXEL"
+        },
+        "assetUsdValue": {
+          "value": 0.0000023381929113328184
+        },
+        "assetAmount": 0.000012
+      }
+    ]
+  },
+  {
+    "id": "533479",
+    "identifier": "r3ZVNKgkkT3A7hbEZ8HxnNnLDCCmZiZECV",
+    "name": "Hot Wallet",
+    "createdAt": "2024-06-08T14:28:59.790992+00:00",
+    "totalUsdValue": 9491049.814490283,
+    "assets": [
+      {
+        "id": "106322109",
+        "name": "Ripple",
+        "asset": {
+          "identifier": "native",
+          "network": "RIPPLE",
+          "symbol": "XRP"
+        },
+        "assetUsdValue": {
+          "value": 9491049.814490283
+        },
+        "assetAmount": 7109351.042818
+      }
+    ]
+  },
+  {
+    "id": "503412",
+    "identifier": "0x211ee0129a67e7d44514152eb43d9f31103ac46b",
+    "name": "Hot Wallet",
+    "createdAt": "2024-04-03T18:53:15.145935+00:00",
+    "totalUsdValue": 7493868.466264657,
+    "assets": [
+      {
+        "id": "106320163",
+        "name": "TetherToken",
+        "asset": {
+          "identifier": "0x9702230a8ea53601f5cd2dc00fdbc13d4df4a8c7",
+          "network": "AVAX",
+          "symbol": "USDt"
+        },
+        "assetUsdValue": {
+          "value": 4278080.214598477
+        },
+        "assetAmount": 4272001.153941
+      },
+      {
+        "id": "106320161",
+        "name": "Avalanche",
+        "asset": {
+          "identifier": "native",
+          "network": "AVAX",
+          "symbol": "AVAX"
+        },
+        "assetUsdValue": {
+          "value": 1591897.7502557372
+        },
+        "assetAmount": 40301.89928977628
+      },
+      {
+        "id": "106320158",
+        "name": "USD Coin",
+        "asset": {
+          "identifier": "0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e",
+          "network": "AVAX",
+          "symbol": "USDC"
+        },
+        "assetUsdValue": {
+          "value": 1523670.3423671478
+        },
+        "assetAmount": 1522154.582608
+      },
+      {
+        "id": "106320159",
+        "name": "Spell Token",
+        "asset": {
+          "identifier": "0xce1bffbd5374dac86a2893119683f4911a2f7814",
+          "network": "AVAX",
+          "symbol": "SPELL"
+        },
+        "assetUsdValue": {
+          "value": 100220.15904327013
+        },
+        "assetAmount": 122306370.29856697
+      },
+      {
+        "id": "106320162",
+        "name": "Avalanche Subnets Memes",
+        "asset": {
+          "identifier": "0xf80fc26d5d20cca25c1c987abf7932942f9e57eb",
+          "network": "AVAX",
+          "symbol": "SUBNETS"
+        },
+        "assetUsdValue": {
+          "value": 2.4919636218548573e-8
+        },
+        "assetAmount": 992.001
+      },
+      {
+        "id": "106320160",
+        "name": "eheroken",
+        "asset": {
+          "identifier": "0x07e3364a1d32a0044e40f509fa2bad80117f111f",
+          "network": "AVAX",
+          "symbol": "USD"
+        },
+        "assetUsdValue": {
+          "value": 0
+        },
+        "assetAmount": 0
+      }
+    ]
+  },
+  {
+    "id": "546062",
+    "identifier": "ltc1q0wmfjhwsp6y9jz33en5m488pw4rftr0ql6vuen",
+    "name": "BUS Cold Fireblocks: Binance.US Omnibus Cold (LTC)",
+    "createdAt": "2024-08-01T12:02:14.167443+00:00",
+    "totalUsdValue": 7444024.808986501,
+    "assets": [
+      {
+        "id": "106319058",
+        "name": "Litecoin",
+        "asset": {
+          "identifier": "native",
+          "network": "LITECOIN",
+          "symbol": "LTC"
+        },
+        "assetUsdValue": {
+          "value": 7444024.808986501
+        },
+        "assetAmount": 78910.42799331
+      }
+    ]
+  },
+  {
+    "id": "503419",
+    "identifier": "0xd5c08681719445a5fdce2bda98b341a49050d821",
+    "name": "Hot Wallet",
+    "createdAt": "2024-04-03T18:53:15.172482+00:00",
+    "totalUsdValue": 7005067.8298669495,
+    "assets": [
+      {
+        "id": "106325697",
+        "name": "(PoS) Tether USD",
+        "asset": {
+          "identifier": "0xc2132d05d31c914a87c6611c10748aeb04b58e8f",
+          "network": "POLYGON",
+          "symbol": "USDT"
+        },
+        "assetUsdValue": {
+          "value": 4572092.078572687
+        },
+        "assetAmount": 4565595.233333
+      },
+      {
+        "id": "106325696",
+        "name": "Polygon",
+        "asset": {
+          "identifier": "0x0000000000000000000000000000000000001010",
+          "network": "POLYGON",
+          "symbol": "POL"
+        },
+        "assetUsdValue": {
+          "value": 2057293.7827614376
+        },
+        "assetAmount": 3814203.8049321496
+      },
+      {
+        "id": "106325691",
+        "name": "USD Coin",
+        "asset": {
+          "identifier": "0x3c499c542cef5e3811e1192ce70d8cc03d5c3359",
+          "network": "POLYGON",
+          "symbol": "USDC"
+        },
+        "assetUsdValue": {
+          "value": 187587.27203147463
+        },
+        "assetAmount": 187400.658674
+      },
+      {
+        "id": "106325692",
+        "name": "VOXEL Token",
+        "asset": {
+          "identifier": "0xd0258a3fd00f38aa8090dfee343f10a9d4d30d3f",
+          "network": "POLYGON",
+          "symbol": "VOXEL"
+        },
+        "assetUsdValue": {
+          "value": 155890.69074487462
+        },
+        "assetAmount": 800057.2920530172
+      },
+      {
+        "id": "106325695",
+        "name": "USD Coin (PoS)",
+        "asset": {
+          "identifier": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+          "network": "POLYGON",
+          "symbol": "USDC"
+        },
+        "assetUsdValue": {
+          "value": 32200.040769776984
+        },
+        "assetAmount": 32168.007905
+      },
+      {
+        "id": "106325693",
+        "name": "Wrapped UST Token (PoS)",
+        "asset": {
+          "identifier": "0x692597b009d13c4049a947cab2239b7d6517875f",
+          "network": "POLYGON",
+          "symbol": "UST"
+        },
+        "assetUsdValue": {
+          "value": 2.3005337441799933
+        },
+        "assetAmount": 96.08754311440174
+      },
+      {
+        "id": "106325685",
+        "name": "Miracleplay Token",
+        "asset": {
+          "identifier": "0x87d6f8edeccbcca766d2880d19b2c3777d322c22",
+          "network": "POLYGON",
+          "symbol": "MPT"
+        },
+        "assetUsdValue": {
+          "value": 1.4811716553991678
+        },
+        "assetAmount": 50
+      },
+      {
+        "id": "106325690",
+        "name": "EscoinToken",
+        "asset": {
+          "identifier": "0x8226ac9edb26ff16da19151042a8ba3bb2cc237f",
+          "network": "POLYGON",
+          "symbol": "ELG"
+        },
+        "assetUsdValue": {
+          "value": 0.14922546085643795
+        },
+        "assetAmount": 0.2833727
+      },
+      {
+        "id": "106325687",
+        "name": "ZEN Exchange Token",
+        "asset": {
+          "identifier": "0xdd75542611d57c4b6e68168b14c3591c539022ed",
+          "network": "POLYGON",
+          "symbol": "pZCX"
+        },
+        "assetUsdValue": {
+          "value": 0.0186040902720653
+        },
+        "assetAmount": 0.168
+      }
+    ]
+  },
+  {
+    "id": "559867",
+    "identifier": "cosmos19zc0ak0zfjt8f9cynfddnrhdrd0j84jdca86ev",
+    "name": "Transition wallet",
+    "createdAt": "2024-10-01T10:42:10.587544+00:00",
+    "totalUsdValue": 6856807.29673,
+    "assets": [
+      {
+        "id": "106319579",
+        "name": "Cosmos - Delegation",
+        "asset": {
+          "identifier": "virtual",
+          "network": "COSMOS",
+          "symbol": "virtual"
+        },
+        "assetUsdValue": {
+          "value": 6445079.525015012
+        },
+        "assetAmount": 1
+      },
+      {
+        "id": "106319568",
+        "name": "Atom",
+        "asset": {
+          "identifier": "uatom",
+          "network": "COSMOS",
+          "symbol": "ATOM"
+        },
+        "assetUsdValue": {
+          "value": 411714.20725492906
+        },
+        "assetAmount": 50027.815889
+      },
+      {
+        "id": "106319573",
+        "name": "stuatom",
+        "asset": {
+          "identifier": "stuatom",
+          "network": "COSMOS",
+          "symbol": "stATOM"
+        },
+        "assetUsdValue": {
+          "value": 7.601565391498527
+        },
+        "assetAmount": 0.649223
+      },
+      {
+        "id": "106319572",
+        "name": "ustrd",
+        "asset": {
+          "identifier": "ustrd",
+          "network": "COSMOS",
+          "symbol": "STRD"
+        },
+        "assetUsdValue": {
+          "value": 3.3024433901004033
+        },
+        "assetAmount": 4.776707
+      },
+      {
+        "id": "106319563",
+        "name": "stuosmo",
+        "asset": {
+          "identifier": "stuosmo",
+          "network": "COSMOS",
+          "symbol": "stOSMO"
+        },
+        "assetUsdValue": {
+          "value": 2.0830631173341962
+        },
+        "assetAmount": 2.623362
+      },
+      {
+        "id": "106319571",
+        "name": "untrn",
+        "asset": {
+          "identifier": "untrn",
+          "network": "COSMOS",
+          "symbol": "NTRN"
+        },
+        "assetUsdValue": {
+          "value": 0.246925701036015
+        },
+        "assetAmount": 0.469012
+      },
+      {
+        "id": "106319567",
+        "name": "stujuno",
+        "asset": {
+          "identifier": "stujuno",
+          "network": "COSMOS",
+          "symbol": "stJUNO"
+        },
+        "assetUsdValue": {
+          "value": 0.19011040418291145
+        },
+        "assetAmount": 0.39777
+      },
+      {
+        "id": "106319565",
+        "name": "stinj",
+        "asset": {
+          "identifier": "stinj",
+          "network": "COSMOS",
+          "symbol": "stINJ"
+        },
+        "assetUsdValue": {
+          "value": 0.0671723750272445
+        },
+        "assetAmount": 0.002539461402937911
+      },
+      {
+        "id": "106319564",
+        "name": "stustars",
+        "asset": {
+          "identifier": "stustars",
+          "network": "COSMOS",
+          "symbol": "stSTARS"
+        },
+        "assetUsdValue": {
+          "value": 0.03339067719880455
+        },
+        "assetAmount": 4.324274
+      }
+    ]
+  },
+  {
+    "id": "546982",
+    "identifier": "fetch10za26lspl3xfqzg8zr7y57t0flm4g5cqx6f72l",
+    "name": "Transition wallet",
+    "createdAt": "2024-08-19T18:25:56.346173+00:00",
+    "totalUsdValue": 6596843.131608504,
+    "assets": [
+      {
+        "id": "106319399",
+        "name": "Fetchai - Delegation",
+        "asset": {
+          "identifier": "virtual",
+          "network": "FETCHAI",
+          "symbol": "virtual"
+        },
+        "assetUsdValue": {
+          "value": 5184326.540887676
+        },
+        "assetAmount": 1
+      },
+      {
+        "id": "106319397",
+        "name": "Fetch.ai",
+        "asset": {
+          "identifier": "afet",
+          "network": "FETCHAI",
+          "symbol": "FET"
+        },
+        "assetUsdValue": {
+          "value": 1412516.5907208275
+        },
+        "assetAmount": 961924.6192588784
+      },
+      {
+        "id": "106319398",
+        "name": "nanomobx",
+        "asset": {
+          "identifier": "nanomobx",
+          "network": "FETCHAI",
+          "symbol": "MOBX"
+        },
+        "assetUsdValue": null,
+        "assetAmount": 9956.459934913
+      }
+    ]
+  },
+  {
+    "id": "503443",
+    "identifier": "0x9ee043136aa7bcc64dcd041031c2a27fe163a188b5a98d6e338e3c618cbc3c2d",
+    "name": "Cold Wallet",
+    "createdAt": "2024-04-03T18:53:15.264971+00:00",
+    "totalUsdValue": 6518599.765495647,
+    "assets": [
+      {
+        "id": "106320311",
+        "name": "Sui",
+        "asset": {
+          "identifier": "0x2::sui::sui",
+          "network": "SUI",
+          "symbol": "SUI"
+        },
+        "assetUsdValue": {
+          "value": 6518599.727235008
+        },
+        "assetAmount": 1979844.05712188
+      },
+      {
+        "id": "106320313",
+        "name": "Wild Goat Coin",
+        "asset": {
+          "identifier": "0x492ff7bc419c2502604980c486aa291d48f7ffc10e8073f38c59329491f106d5::coin::coin",
+          "network": "SUI",
+          "symbol": "WGC"
+        },
+        "assetUsdValue": {
+          "value": 0.038260632493405056
+        },
+        "assetAmount": 100
+      },
+      {
+        "id": "106320315",
+        "name": "Splo",
+        "asset": {
+          "identifier": "0x782ed255787dd75961b8e1b0cb811cfca968e56d5221218556778f9b404da075::splo::splo",
+          "network": "SUI",
+          "symbol": "SPLO"
+        },
+        "assetUsdValue": {
+          "value": 6.609101187236572e-9
+        },
+        "assetAmount": 0.000666
+      },
+      {
+        "id": "106320314",
+        "name": " USDT v3 (Swap at: usdv3.com)",
+        "asset": {
+          "identifier": "0x3a45488e8134121aa180e9d5674a0ed7a4ae52c9ef0274ffb18da9cb0380b875::usdt::usdt",
+          "network": "SUI",
+          "symbol": "USDT"
+        },
+        "assetUsdValue": null,
+        "assetAmount": 1678732.057122
+      },
+      {
+        "id": "106320312",
+        "name": "DOGE BEAR",
+        "asset": {
+          "identifier": "0xa4de3d1d9a8486621ca38a210b6a2884134ca91511a3097ad4dfca8095f105fc::dogebear::dogebear",
+          "network": "SUI",
+          "symbol": "DOGEBEAR"
+        },
+        "assetUsdValue": null,
+        "assetAmount": 1610
+      },
+      {
+        "id": "106320316",
+        "name": "Gays on the Sui",
+        "asset": {
+          "identifier": "0xdee24200ed87f3a210b54c11e146e6ae48b39d813b28e7115b66c8f1e7d737b3::gays::gays",
+          "network": "SUI",
+          "symbol": "Gays"
+        },
+        "assetUsdValue": null,
+        "assetAmount": 222222
+      },
+      {
+        "id": "106320317",
+        "name": "CatFOMO",
+        "asset": {
+          "identifier": "0x5ec88248ac6b47fd50ba4fa0dc2ebf9799d2d58bd1fc69c6941a331211dc94a0::catfomo::catfomo",
+          "network": "SUI",
+          "symbol": "CatFOMO"
+        },
+        "assetUsdValue": null,
+        "assetAmount": 42401.641716
+      },
+      {
+        "id": "106320318",
+        "name": "RUGPULL",
+        "asset": {
+          "identifier": "0xc1235c4ec2b64731dc4bf6157d8606eb76690e2d57ef907a35bdf4d197838ab6::rgpl::rgpl",
+          "network": "SUI",
+          "symbol": "RGPL"
+        },
+        "assetUsdValue": null,
+        "assetAmount": 6969
+      }
+    ]
+  },
+  {
+    "id": "545427",
+    "identifier": "648WJ6mJbS2o9V6X3LQwJ5gLzyjgd8cnVBBwtfWVSYCs",
+    "name": "Fireblocks Omnibus Cold",
+    "createdAt": "2024-07-29T15:45:06.147902+00:00",
+    "totalUsdValue": 6367509.106389719,
+    "assets": [
+      {
+        "id": "106322023",
+        "name": "Solana",
+        "asset": {
+          "identifier": "native",
+          "network": "SOLANA",
+          "symbol": "SOL"
+        },
+        "assetUsdValue": {
+          "value": 6367509.106389719
+        },
+        "assetAmount": 25748.261106092
+      }
+    ]
+  },
+  {
+    "id": "559870",
+    "identifier": "0x34ea4138580435b5a521e460035edb19df1938c1",
+    "name": "Cold wallet",
+    "createdAt": "2024-10-01T10:42:10.658901+00:00",
+    "totalUsdValue": 6235961.2933513215,
+    "assets": [
+      {
+        "id": "106322283",
+        "name": "Gala",
+        "asset": {
+          "identifier": "0x15d4c048f83bd7e37d49ea4c83a07267ec4203da",
+          "network": "ETHEREUM",
+          "symbol": "GALA"
+        },
+        "assetUsdValue": {
+          "value": 6234655.921514217
+        },
+        "assetAmount": 175573869.352
+      },
+      {
+        "id": "106325678",
+        "name": "Gala",
+        "asset": {
+          "identifier": "0x7ddee176f665cd201f93eede625770e2fd911990",
+          "network": "BINANCE",
+          "symbol": "GALA"
+        },
+        "assetUsdValue": {
+          "value": 810.6635129806612
+        },
+        "assetAmount": 15844122
+      },
+      {
+        "id": "106322274",
+        "name": "Ethereum",
+        "asset": {
+          "identifier": "native",
+          "network": "ETHEREUM",
+          "symbol": "ETH"
+        },
+        "assetUsdValue": {
+          "value": 282.35376344249863
+        },
+        "assetAmount": 0.0853245981379189
+      },
+      {
+        "id": "106322751",
+        "name": "BNB",
+        "asset": {
+          "identifier": "native",
+          "network": "BINANCE",
+          "symbol": "BNB"
+        },
+        "assetUsdValue": {
+          "value": 160.0666102971887
+        },
+        "assetAmount": 0.2473245591
+      },
+      {
+        "id": "106325683",
+        "name": "Maker",
+        "asset": {
+          "identifier": "0x5f0da599bb2cccfcf6fdfd7d81743b6020864350",
+          "network": "BINANCE",
+          "symbol": "MKR"
+        },
+        "assetUsdValue": {
+          "value": 16.930141933303283
+        },
+        "assetAmount": 0.01
+      },
+      {
+        "id": "106322268",
+        "name": "yearn.finance",
+        "asset": {
+          "identifier": "0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e",
+          "network": "ETHEREUM",
+          "symbol": "YFI"
+        },
+        "assetUsdValue": {
+          "value": 7.101497786163816
+        },
+        "assetAmount": 0.001
+      },
+      {
+        "id": "106326234",
+        "name": "Catcoin",
+        "asset": {
+          "identifier": "0x2f0c6e147974bfbf7da557b88643d74c324053a2",
+          "network": "BINANCE",
+          "symbol": "CATS"
+        },
+        "assetUsdValue": {
+          "value": 6.226202520914992
+        },
+        "assetAmount": 8569458553
+      },
+      {
+        "id": "106322167",
+        "name": "Zcash",
+        "asset": {
+          "identifier": "0x1ba42e5193dfa8b03d15dd1b86a3113bbbef8eeb",
+          "network": "BINANCE",
+          "symbol": "ZEC"
+        },
+        "assetUsdValue": {
+          "value": 4.983062922914358
+        },
+        "assetAmount": 0.1
+      },
+      {
+        "id": "106322748",
+        "name": "Elrond",
+        "asset": {
+          "identifier": "0xbf7c81fff98bbe61b40ed186e4afd6ddd01337fe",
+          "network": "BINANCE",
+          "symbol": "EGLD"
+        },
+        "assetUsdValue": {
+          "value": 3.5925716284975153
+        },
+        "assetAmount": 0.1
+      }
+    ]
+  },
+  {
+    "id": "546990",
+    "identifier": "bbaaaab37824ea1056a84bb282d1031be0ff2172a7cd3a421cd97cdf5f9ea68d",
+    "name": "Transition wallet",
+    "createdAt": "2024-08-19T18:25:56.436094+00:00",
+    "totalUsdValue": 6056495.811074739,
+    "assets": [
+      {
+        "id": "106319363",
+        "name": "Near (NEAR) - Validator - figment.poolv1.near",
+        "asset": {
+          "identifier": "virtual",
+          "network": "NEAR",
+          "symbol": "virtual"
+        },
+        "assetUsdValue": {
+          "value": 5812037.87236621
+        },
+        "assetAmount": 1
+      },
+      {
+        "id": "106319374",
+        "name": "Near Protocol",
+        "asset": {
+          "identifier": "native",
+          "network": "NEAR",
+          "symbol": "NEAR"
+        },
+        "assetUsdValue": {
+          "value": 244457.93870852888
+        },
+        "assetAmount": 38202.085724583
+      },
+      {
+        "id": "106319373",
+        "name": "The Aquarium",
+        "asset": {
+          "identifier": "yuzu.recurforever.near",
+          "network": "NEAR",
+          "symbol": "EVENTS"
+        },
+        "assetUsdValue": {
+          "value": 0
+        },
+        "assetAmount": 0
+      },
+      {
+        "id": "106319375",
+        "name": "🎁You won 500 NEAR🎁 To claim your gain👉www.rafflenear.com",
+        "asset": {
+          "identifier": "youwon500neartoclaimyourgainwwwraffl.laboratory.jumpfinance.near",
+          "network": "NEAR",
+          "symbol": "WON"
+        },
+        "assetUsdValue": null,
+        "assetAmount": 1
+      }
+    ]
+  },
+  {
+    "id": "545432",
+    "identifier": "42BFW4KZXGUKYAIWJRY6JSP42EI2STN36CJ3YVEBOMQJTXKZ3BVQAPOF7E",
+    "name": "Fireblocks Omnibus Cold",
+    "createdAt": "2024-07-29T15:45:06.209177+00:00",
+    "totalUsdValue": 5974202.333546861,
+    "assets": [
+      {
+        "id": "106319340",
+        "name": "Algorand",
+        "asset": {
+          "identifier": "native",
+          "network": "ALGORAND",
+          "symbol": "ALGO"
+        },
+        "assetUsdValue": {
+          "value": 5974202.333546861
+        },
+        "assetAmount": 22351392.855726
+      }
+    ]
+  },
+  {
+    "id": "503410",
+    "identifier": "0x058a871358c1b01039a265635ea282c3f435a9ed",
+    "name": "Cold wallet",
+    "createdAt": "2024-04-03T18:53:15.138944+00:00",
+    "totalUsdValue": 5907364.762631999,
+    "assets": [
+      {
+        "id": "106319135",
+        "name": "Harmony",
+        "asset": {
+          "identifier": "native",
+          "network": "HARMONY",
+          "symbol": "ONE"
+        },
+        "assetUsdValue": {
+          "value": 5907213.750309176
+        },
+        "assetAmount": 246447105.5767
+      },
+      {
+        "id": "106319943",
+        "name": "Ethereum",
+        "asset": {
+          "identifier": "native",
+          "network": "ETHEREUM",
+          "symbol": "ETH"
+        },
+        "assetUsdValue": {
+          "value": 139.01066633725958
+        },
+        "assetAmount": 0.04200768956467798
+      },
+      {
+        "id": "106322867",
+        "name": "BNB",
+        "asset": {
+          "identifier": "native",
+          "network": "BINANCE",
+          "symbol": "BNB"
+        },
+        "assetUsdValue": {
+          "value": 5.31998099005624
+        },
+        "assetAmount": 0.0082200900634
+      },
+      {
+        "id": "106319901",
+        "name": "GUA",
+        "asset": {
+          "identifier": "0x393f1d49425d94f47b26e591a9d111df5cd61065",
+          "network": "ETHEREUM",
+          "symbol": "GUA"
+        },
+        "assetUsdValue": {
+          "value": 3.133957292504396
+        },
+        "assetAmount": 28888
+      },
+      {
+        "id": "106319923",
+        "name": "MultiVAC",
+        "asset": {
+          "identifier": "0x6226e00bcac68b0fe55583b90a1d727c14fab77f",
+          "network": "ETHEREUM",
+          "symbol": "MTV"
+        },
+        "assetUsdValue": {
+          "value": 1.0316294640504569
+        },
+        "assetAmount": 1000
+      },
+      {
+        "id": "106322878",
+        "name": "BurnedFi",
+        "asset": {
+          "identifier": "0x19c018e13cff682e729cc7b5fb68c8a641bf98a4",
+          "network": "BINANCE",
+          "symbol": "burn"
+        },
+        "assetUsdValue": {
+          "value": 0.6697197619651583
+        },
+        "assetAmount": 0.99
+      },
+      {
+        "id": "106322223",
+        "name": "SportPoint",
+        "asset": {
+          "identifier": "0x0cf453dc7ea21ef8fdffc1b14cb848e1e3884be5",
+          "network": "BINANCE",
+          "symbol": "POINT"
+        },
+        "assetUsdValue": {
+          "value": 0.39879904924361265
+        },
+        "assetAmount": 8
+      },
+      {
+        "id": "106319600",
+        "name": "Avalanche",
+        "asset": {
+          "identifier": "native",
+          "network": "AVAX",
+          "symbol": "AVAX"
+        },
+        "assetUsdValue": {
+          "value": 0.31800879146898037
+        },
+        "assetAmount": 0.008050993403934
+      },
+      {
+        "id": "106319380",
+        "name": "Nutcash",
+        "asset": {
+          "identifier": "0x88266f9eb705f5282a2507a9c418821a2ac9f8bd",
+          "network": "ARBITRUM",
+          "symbol": "NCASH"
+        },
+        "assetUsdValue": {
+          "value": 0.3122981165716615
+        },
+        "assetAmount": 9.45
+      }
+    ]
+  },
+  {
+    "id": "503405",
+    "identifier": "addr1v8adw2u5gm6klh7jr2eye3wq6plnkeuhnj2zqrrmyfv4mqs0yst0c",
+    "name": "Hot Wallet",
+    "createdAt": "2024-04-03T18:53:15.105805+00:00",
+    "totalUsdValue": 5651216.001501917,
+    "assets": [
+      {
+        "id": "106332058",
+        "name": "Cardano",
+        "asset": {
+          "identifier": "native",
+          "network": "CARDANO",
+          "symbol": "ADA"
+        },
+        "assetUsdValue": {
+          "value": 5651216.001501917
+        },
+        "assetAmount": 5837853.959694
+      },
+      {
+        "id": "106331670",
+        "name": "AdaCard #7645 XYZ #368 Block #5960315",
+        "asset": {
+          "identifier": "92218acfedc4726cf66f88e1e174debf1d085fad115e790c2392e67c4164614361726437363435",
+          "network": "CARDANO",
+          "symbol": "AdaCard #7645 XYZ #368 Block #5960315"
+        },
+        "assetUsdValue": {
+          "value": 0
+        },
+        "assetAmount": 0
+      },
+      {
+        "id": "106331588",
+        "name": "Cardano Beach #323",
+        "asset": {
+          "identifier": "2827cfdba60350104a93329b1f9d2293746d1c068948abfdc3a7acfb43617264616e6f2042656163682023333233",
+          "network": "CARDANO",
+          "symbol": "Cardano Beach #323"
+        },
+        "assetUsdValue": {
+          "value": 0
+        },
+        "assetAmount": 0
+      },
+      {
+        "id": "106331539",
+        "name": "Dot Dot Creature #0916",
+        "asset": {
+          "identifier": "4da6fc5702467eccfd7080ad4889d37b73173bee9701dfe04f22ea64446f74446f74437265617475726530393136",
+          "network": "CARDANO",
+          "symbol": "Dot Dot Creature #0916"
+        },
+        "assetUsdValue": {
+          "value": 0
+        },
+        "assetAmount": 0
+      },
+      {
+        "id": "106331573",
+        "name": "Dot Dot Creature #7350",
+        "asset": {
+          "identifier": "4da6fc5702467eccfd7080ad4889d37b73173bee9701dfe04f22ea64446f74446f74437265617475726537333530",
+          "network": "CARDANO",
+          "symbol": "Dot Dot Creature #7350"
+        },
+        "assetUsdValue": {
+          "value": 0
+        },
+        "assetAmount": 0
+      },
+      {
+        "id": "106331654",
+        "name": "AdaCard #21673 XYZ #244 Block #5589221",
+        "asset": {
+          "identifier": "92218acfedc4726cf66f88e1e174debf1d085fad115e790c2392e67c416461436172643231363733",
+          "network": "CARDANO",
+          "symbol": "AdaCard #21673 XYZ #244 Block #5589221"
+        },
+        "assetUsdValue": {
+          "value": 0
+        },
+        "assetAmount": 0
+      },
+      {
+        "id": "106331503",
+        "name": "Cardano Roboverse #2573",
+        "asset": {
+          "identifier": "c60704de63db701f156f6902e494a22bbd2abca00c6a7bb644dccce76e616d6532353733",
+          "network": "CARDANO",
+          "symbol": "Cardano Roboverse #2573"
+        },
+        "assetUsdValue": {
+          "value": 0
+        },
+        "assetAmount": 0
+      },
+      {
+        "id": "106331620",
+        "name": "Cypherkicks Studios #08728",
+        "asset": {
+          "identifier": "76dbbc78587bf972c710f22a0807a6905a8a5e713418515fc9abeed1786d617364726f703038373238",
+          "network": "CARDANO",
+          "symbol": "Cypherkicks Studios #08728"
+        },
+        "assetUsdValue": {
+          "value": 0
+        },
+        "assetAmount": 0
+      },
+      {
+        "id": "106331635",
+        "name": "Bart Pass  #82",
+        "asset": {
+          "identifier": "dfa93badafa2623266702c5f3fd2b7cd3650f429b8843805135eb9a9426172743832",
+          "network": "CARDANO",
+          "symbol": "Bart Pass  #82"
+        },
+        "assetUsdValue": {
+          "value": 0
+        },
+        "assetAmount": 0
+      }
+    ]
+  },
+  {
+    "id": "545431",
+    "identifier": "TY9y7wcBb2ij7goPKEDqRAm3N2jzbChHHN",
+    "name": "Fireblocks Omnibus Cold",
+    "createdAt": "2024-07-29T15:45:06.195766+00:00",
+    "totalUsdValue": 5375453.860753157,
+    "assets": [
+      {
+        "id": "106320298",
+        "name": "Tron",
+        "asset": {
+          "identifier": "native",
+          "network": "TRON",
+          "symbol": "TRX"
+        },
+        "assetUsdValue": {
+          "value": 5375451.08324613
+        },
+        "assetAmount": 26246447.777024
+      },
+      {
+        "id": "106320299",
+        "name": "Sundog",
+        "asset": {
+          "identifier": "TXL6rJbvmjD46zeN1JssfgxvSo99qC8MRT",
+          "network": "TRON",
+          "symbol": "SUNDOG"
+        },
+        "assetUsdValue": {
+          "value": 2.7775070274649387
+        },
+        "assetAmount": 19.52212
+      }
+    ]
+  },
+  {
+    "id": "503424",
+    "identifier": "0.0.1454258",
+    "name": "Hot Wallet",
+    "createdAt": "2024-04-03T18:53:15.190346+00:00",
+    "totalUsdValue": 5079281.892260199,
+    "assets": [
+      {
+        "id": "106322011",
+        "name": "Hedera",
+        "asset": {
+          "identifier": "native",
+          "network": "HEDERA",
+          "symbol": "HBAR"
+        },
+        "assetUsdValue": {
+          "value": 5079281.892260199
+        },
+        "assetAmount": 36049152.0275714
+      }
+    ]
+  },
+  {
+    "id": "503401",
+    "identifier": "17rsh4cUonZ7DXxqJhjyDb7dgRpGHrysCP",
+    "name": "Hot Wallet",
+    "createdAt": "2024-04-03T18:53:15.072044+00:00",
+    "totalUsdValue": 4667801.158421133,
+    "assets": [
+      {
+        "id": "106327360",
+        "name": "Bitcoin Cash",
+        "asset": {
+          "identifier": "native",
+          "network": "BITCOIN_CASH",
+          "symbol": "BCH"
+        },
+        "assetUsdValue": {
+          "value": 4667801.158421133
+        },
+        "assetAmount": 9337.93451038
+      }
+    ]
+  },
+  {
+    "id": "543558",
+    "identifier": "qp9n7uufk83eqzj6d7wgev8m4n0qx355wcz32dhrnk",
+    "name": "Hot Wallet - New Format",
+    "createdAt": "2024-07-15T11:41:11.711135+00:00",
+    "totalUsdValue": 4667801.158421133,
+    "assets": [
+      {
+        "id": "106331266",
+        "name": "Bitcoin Cash",
+        "asset": {
+          "identifier": "native",
+          "network": "BITCOIN_CASH",
+          "symbol": "BCH"
+        },
+        "assetUsdValue": {
+          "value": 4667801.158421133
+        },
+        "assetAmount": 9337.93451038
+      }
+    ]
+  },
+  {
+    "id": "546999",
+    "identifier": "0x9423cf7ef71c3171ccb7cde0f2e4fba33b9a4f4d7996c64d2eb2e8a2bed987a7",
+    "name": "Transition wallet",
+    "createdAt": "2024-08-19T18:25:56.538237+00:00",
+    "totalUsdValue": 3951352.4673331305,
+    "assets": [
+      {
+        "id": "106319147",
+        "name": "SUI Stake",
+        "asset": {
+          "identifier": "virtual",
+          "network": "SUI",
+          "symbol": "virtual"
+        },
+        "assetUsdValue": {
+          "value": 2748815.948147592
+        },
+        "assetAmount": 1e-9
+      },
+      {
+        "id": "106319130",
+        "name": "Sui",
+        "asset": {
+          "identifier": "0x2::sui::sui",
+          "network": "SUI",
+          "symbol": "SUI"
+        },
+        "assetUsdValue": {
+          "value": 1202536.4809249062
+        },
+        "assetAmount": 365237.137553361
+      },
+      {
+        "id": "106319131",
+        "name": "Wild Goat Coin",
+        "asset": {
+          "identifier": "0x492ff7bc419c2502604980c486aa291d48f7ffc10e8073f38c59329491f106d5::coin::coin",
+          "network": "SUI",
+          "symbol": "WGC"
+        },
+        "assetUsdValue": {
+          "value": 0.038260632493405056
+        },
+        "assetAmount": 100
+      },
+      {
+        "id": "106319128",
+        "name": "Gays on the Sui",
+        "asset": {
+          "identifier": "0xdee24200ed87f3a210b54c11e146e6ae48b39d813b28e7115b66c8f1e7d737b3::gays::gays",
+          "network": "SUI",
+          "symbol": "Gays"
+        },
+        "assetUsdValue": null,
+        "assetAmount": 222222
+      },
+      {
+        "id": "106319129",
+        "name": " USDT v3 (Swap at: usdv3.com)",
+        "asset": {
+          "identifier": "0x280c60e8a5244646598197fcd495ab976e15ef3a9f272f4422446cb58930814b::usdt::usdt",
+          "network": "SUI",
+          "symbol": "USDT"
+        },
+        "assetUsdValue": null,
+        "assetAmount": 372131.047554
+      }
+    ]
+  },
+  {
+    "id": "504079",
+    "identifier": "fetch1aq37hz5a8k77e0ftzjv4nzd0k4sht26zw6ht7m",
+    "name": "Cold Wallet",
+    "createdAt": "2024-04-08T15:41:59.781702+00:00",
+    "totalUsdValue": 3765935.446660878,
+    "assets": [
+      {
+        "id": "106319436",
+        "name": "Fetch.ai",
+        "asset": {
+          "identifier": "afet",
+          "network": "FETCHAI",
+          "symbol": "FET"
+        },
+        "assetUsdValue": {
+          "value": 3765935.446660878
+        },
+        "assetAmount": 2564604.2279999997
+      }
+    ]
+  },
+  {
+    "id": "559898",
+    "identifier": "k:882ecbed177a274519c7576bad3f2900abc06e9d592346929c422a86e4f0f96c",
+    "name": "Hot wallet",
+    "createdAt": "2024-10-01T11:57:41.337794+00:00",
+    "totalUsdValue": 3102808.15893112,
+    "assets": [
+      {
+        "id": "106326270",
+        "name": "Kadena",
+        "asset": {
+          "identifier": "native",
+          "network": "KADENA",
+          "symbol": "KDA"
+        },
+        "assetUsdValue": {
+          "value": 3102808.15893112
+        },
+        "assetAmount": 3833271.61373874
+      }
+    ]
+  },
+  {
+    "id": "503427",
+    "identifier": "c5a2a2cdcf2990c192f47bdd07c6c502c4066bd7c9aa65ee81fd9e3cc856b7a5",
+    "name": "Cold Wallet",
+    "createdAt": "2024-04-03T18:53:15.202010+00:00",
+    "totalUsdValue": 2935697.5441466463,
+    "assets": [
+      {
+        "id": "106319300",
+        "name": "Internet Computer",
+        "asset": {
+          "identifier": "native",
+          "network": "INTERNET_COMPUTER",
+          "symbol": "ICP"
+        },
+        "assetUsdValue": {
+          "value": 2935697.5441466463
+        },
+        "assetAmount": 267878.682
+      }
+    ]
+  },
+  {
+    "id": "503417",
+    "identifier": "0x9223c017a39d4806d1d92c15046ae28c32c6d8e7",
+    "name": "Hot Wallet",
+    "createdAt": "2024-04-03T18:53:15.162904+00:00",
+    "totalUsdValue": 2905156.2021267843,
+    "assets": [
+      {
+        "id": "106320233",
+        "name": "Ethereum",
+        "asset": {
+          "identifier": "native",
+          "network": "ARBITRUM",
+          "symbol": "ETH"
+        },
+        "assetUsdValue": {
+          "value": 2198828.107703538
+        },
+        "assetAmount": 664.4647564698485
+      },
+      {
+        "id": "106320237",
+        "name": "Arbitrum",
+        "asset": {
+          "identifier": "0x912ce59144191c1204e64559fe8253a0e49e6548",
+          "network": "ARBITRUM",
+          "symbol": "ARB"
+        },
+        "assetUsdValue": {
+          "value": 526787.7965372924
+        },
+        "assetAmount": 645322.150811122
+      },
+      {
+        "id": "106320234",
+        "name": "MAGIC",
+        "asset": {
+          "identifier": "0x539bde0d7dbd336b79148aa742883198bbf60342",
+          "network": "ARBITRUM",
+          "symbol": "MAGIC"
+        },
+        "assetUsdValue": {
+          "value": 179511.5014135251
+        },
+        "assetAmount": 343194.40633086
+      },
+      {
+        "id": "106320236",
+        "name": "Wrapped Ether",
+        "asset": {
+          "identifier": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
+          "network": "ARBITRUM",
+          "symbol": "WETH"
+        },
+        "assetUsdValue": {
+          "value": 28.607791167265102
+        },
+        "assetAmount": 0.008645
+      },
+      {
+        "id": "106320235",
+        "name": "Aisupreme.io Token",
+        "asset": {
+          "identifier": "0x493070ef5280e7a275a106a30b0414dbdb21febd",
+          "network": "ARBITRUM",
+          "symbol": "AISP"
+        },
+        "assetUsdValue": {
+          "value": 0.18328749110569434
+        },
+        "assetAmount": 500
+      },
+      {
+        "id": "106319142",
+        "name": "Polygon",
+        "asset": {
+          "identifier": "0x0000000000000000000000000000000000001010",
+          "network": "POLYGON",
+          "symbol": "POL"
+        },
+        "assetUsdValue": {
+          "value": 0.005393769939878801
+        },
+        "assetAmount": 0.01
+      },
+      {
+        "id": "106319172",
+        "name": "MATIC",
+        "asset": {
+          "identifier": "0x4984dd732a3f3de41e633e92ed47727522653ba7",
+          "network": "GNOSIS_CHAIN",
+          "symbol": "bridge for 9600 $POL(polbridge.vercel.app)"
+        },
+        "assetUsdValue": null,
+        "assetAmount": 2985
+      }
+    ]
+  },
+  {
+    "id": "503421",
+    "identifier": "f1i2v4uxxx34guf7zgdmbkljt2adakuqronoyaq7i",
+    "name": "Hot Wallet",
+    "createdAt": "2024-04-03T18:53:15.179541+00:00",
+    "totalUsdValue": 2754918.720134241,
+    "assets": [
+      {
+        "id": "106319410",
+        "name": "Filecoin",
+        "asset": {
+          "identifier": "native",
+          "network": "FILECOIN",
+          "symbol": "FIL"
+        },
+        "assetUsdValue": {
+          "value": 2754918.720134241
+        },
+        "assetAmount": 508022.8019631362
+      }
+    ]
+  },
+  {
+    "id": "503418",
+    "identifier": "0xad78c7311f22647d488dc6695836cab58650eb3c",
+    "name": "Hot Wallet",
+    "createdAt": "2024-04-03T18:53:15.166246+00:00",
+    "totalUsdValue": 2650620.454872824,
+    "assets": [
+      {
+        "id": "106320068",
+        "name": "Fantom",
+        "asset": {
+          "identifier": "native",
+          "network": "FANTOM",
+          "symbol": "FTM"
+        },
+        "assetUsdValue": {
+          "value": 2650620.454197569
+        },
+        "assetAmount": 2747754.0612136503
+      },
+      {
+        "id": "106320069",
+        "name": "Cekke Cronje",
+        "asset": {
+          "identifier": "0x3bc34d8ace32d768a3f76e17aaef2b1d8f261e1d",
+          "network": "FANTOM",
+          "symbol": "CEKKE"
+        },
+        "assetUsdValue": {
+          "value": 0.0006752546928227422
+        },
+        "assetAmount": 1000000
+      }
+    ]
+  },
+  {
+    "id": "545426",
+    "identifier": "0x61344e4a86f9d8bf12343e5d0da89bea5cccd2d4",
+    "name": "Fireblocks Omnibus Cold",
+    "createdAt": "2024-07-29T15:45:06.136125+00:00",
+    "totalUsdValue": 2459193.4824502044,
+    "assets": [
+      {
+        "id": "106319430",
+        "name": "Ethereum Classic",
+        "asset": {
+          "identifier": "native",
+          "network": "ETHEREUM_CLASSIC",
+          "symbol": "ETC"
+        },
+        "assetUsdValue": {
+          "value": 2459193.4824502044
+        },
+        "assetAmount": 88768.615937
+      }
+    ]
+  }
+]
