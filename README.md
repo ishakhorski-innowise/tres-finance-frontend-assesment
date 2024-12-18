@@ -1,5 +1,9 @@
 # Tres Finance Frontend Assessment
 
+## P.S.
+When developing the test case, I focused on creating a good extensible application architecture, with clean code and good functionality.
+I omitted some minor moments with styling of basic components (select, etc.) to save time.
+
 ## Project Setup
 
 ```sh
